@@ -1,0 +1,7 @@
+commands
+1.git add
+2.git commit -m '(title)'
+3.git config user.name
+4.git config user.email
+5.git branch (new brach name)
+6.git fetch (remote)
