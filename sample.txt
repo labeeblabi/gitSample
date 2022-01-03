@@ -1,1 +1,2 @@
-welocome to gitProject
+welocome to gitProject,
+starting new versio 1.0
